@@ -1,6 +1,4 @@
-one 
-two 
-three
+test conflict
 four
 seven
 eight

@@ -1,1 +1,7 @@
 test merge
+test conflict
+four
+seven
+eight
+nine
+
